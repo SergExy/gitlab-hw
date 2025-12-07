@@ -8,6 +8,9 @@ build:
   stage: build
   script:
     - go build -o hello .
+  artifacts:
+    paths:
+      - hello
 
 test:
   stage: test
