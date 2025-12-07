@@ -24,11 +24,9 @@
 
 ### Задание 1
 
-`Развертывание GitLab`
+`Развертывание GitLab и GitLab Runner`
 
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![GitLab Runner settings](https://github.com/SergExy/gitlab-hw/blob/main/Screenshot_runner_gitlab)
 
 
 ---
@@ -37,8 +35,11 @@
 
 `Сначала делается изменение origin на локальный gitlab сервер через git remote set-url origin, а далее уже автоматическая сборка через gitlab runner, а именно CI`
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+
+![CI](https://github.com/SergExy/gitlab-hw/blob/main/photo_1_2025-12-07_17-42-35.jpg)
+![CI2](https://github.com/SergExy/gitlab-hw/blob/main/photo_2_2025-12-07_17-42-35.jpg) 
+![CI3](https://github.com/SergExy/gitlab-hw/blob/main/photo_3_2025-12-07_17-42-35.jpg) 
+
 
 
 ---
